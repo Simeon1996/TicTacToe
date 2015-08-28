@@ -214,7 +214,8 @@ namespace Tic_Tac_Toe
                 UnavailableControls();
                 WinImageApply();
                 ColorTheWin(btnThree, btnFive, btnSeven);
-IsWonIndicator();            }
+                IsWonIndicator();            
+            }
 
         }
 
@@ -341,16 +342,6 @@ IsWonIndicator();            }
             GameStyleWriter(buttonsClickCounter, btnNine, firstPlayerName.Text, secondPlayerName.Text);
             FoundWinner(firstPlayerName.Text, secondPlayerName.Text);
             overflowTurns(buttonsClickCounter);
-        }
-
-        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Application.Restart();
-        }
-
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
 
         private void newGameToolStripMenuItem1_Click(object sender, EventArgs e)
