@@ -1,0 +1,9 @@
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+c:\users\mnz\documents\visual studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Mnz\Documents\Visual Studio 2013\Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.TicTacToePreview.resources
